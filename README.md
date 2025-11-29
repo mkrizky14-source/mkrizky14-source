@@ -44,8 +44,8 @@ Repo: *coming soon*
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mkrizky14-source&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mkrizky14-source&theme=tokyonight" />
 </p>
 
 ---
